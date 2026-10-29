@@ -15,9 +15,9 @@ AI-assisted and vibe-coded contributions are welcome. Please test your submissio
 ## Your first contribution
 
 1. Read [START_HERE.md](START_HERE.md) and the [two official challenges](README.md#the-only-two-finish-lines).
-2. Check existing issues for similar work; participate in Discussions when enabled.
+2. Check the [research dashboard](https://github.com/users/rajivamin/projects/1) and [existing issues](https://github.com/rajivamin/multa-lumina/issues) for similar work; join [Discussions](https://github.com/rajivamin/multa-lumina/discussions).
 3. Propose a question stating **problem, relevance, proposed test, expected observation, and contributor role**.
-4. Report experiments using [the research record template](research/RECORD_TEMPLATE.md).
+4. Report experiments using [the research record template](research/RECORD_TEMPLATE.md) and [discovery process](docs/DISCOVERY_PROCESS.md).
 5. Link earlier research and acknowledge all collaborators.
 6. If claiming a discovery, include independently checkable evidence and limitations.
 
