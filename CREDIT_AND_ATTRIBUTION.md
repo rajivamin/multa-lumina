@@ -19,7 +19,7 @@ Use established [CRediT roles](https://credit.niso.org/) where applicable alongs
 
 ## Challenges and disputes
 
-Report suspected misattribution privately to maintainers rather than publishing allegations. An uninvolved reviewer should consider the evidence, give affected contributors a chance to respond, publish a justified correction when appropriate, and enable independent appeal where practical. A private reporting route must be established before wide public recruitment.
+Report suspected misattribution privately to maintainers rather than publishing allegations. An uninvolved reviewer should consider the evidence, give affected contributors a chance to respond, publish a justified correction when appropriate, and enable independent appeal where practical. The [private reporting protocol](docs/PRIVATE_REPORTING.md) is published, but the dedicated intake contact must still be activated before wide public recruitment.
 
 ## Copyright, licensing and patents
 
