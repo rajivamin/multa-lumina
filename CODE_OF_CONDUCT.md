@@ -9,4 +9,4 @@ This initiative welcomes participants across disciplines, experience levels, age
 - Treat attribution concerns seriously, and allow fair evidence-based review and correction.
 - Preserve a respectful environment for beginners and experts alike.
 
-Before broad recruitment, maintainers should publish a private misconduct-reporting contact and a review/appeals procedure. Do not disclose sensitive allegations publicly in issues.
+The [private reporting and review procedure](docs/PRIVATE_REPORTING.md) is published, but its confidential intake mailbox has not yet been activated. Do not disclose sensitive allegations publicly in issues or Discussions.
