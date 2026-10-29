@@ -1,0 +1,42 @@
+# Generic safeguards for a multi-language research repository.
+# This does NOT replace repository secret scanning or careful review.
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# JavaScript / TypeScript
+node_modules/
+dist/
+build/
+.next/
+coverage/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary and local artifacts
+*.log
+tmp/
+.cache/
+
+# Do not ignore evidence or research results by default:
+# meaningful experiment artifacts should be reviewed and committed intentionally.
