@@ -37,7 +37,7 @@ A robot or embodied AI enters an unfamiliar American home, finds the kitchen, di
 ## How work is organized
 
 - **Issues:** Experiment proposals, actionable investigations, replication requests, and documentation tasks.
-- **Discussions:** Community questions and knowledge sharing, once enabled.
+- **Discussions:** Community questions and knowledge sharing. See the [research categories and contributor opportunity map](docs/COMMUNITY_STRUCTURE.md).
 - **Research records:** Reproducible methods, evidence, negative findings, and limitations.
 - **Attribution ledger:** Linked records of original ideas, implementations, independent verification, dependencies, and corrections. This process is being established in the [founding credit policy](CREDIT_AND_ATTRIBUTION.md).
 
