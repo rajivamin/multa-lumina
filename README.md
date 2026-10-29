@@ -34,12 +34,14 @@ A robot or embodied AI enters an unfamiliar American home, finds the kitchen, di
 
 **Domain expert?** Help explain what real competence looks like and design scenarios that challenge shallow demonstrations.
 
+**Find an opportunity:** Explore the [public Research Dashboard](https://github.com/users/rajivamin/projects/1), [beginner-friendly issues](https://github.com/rajivamin/multa-lumina/issues?q=is%3Aissue%20is%3Aopen%20label%3A%22good%20first%20issue%22), and [Discussions](https://github.com/rajivamin/multa-lumina/discussions).
+
 ## How work is organized
 
 - **Issues:** Experiment proposals, actionable investigations, replication requests, and documentation tasks.
 - **Discussions:** Community questions and knowledge sharing. See the [research categories and contributor opportunity map](docs/COMMUNITY_STRUCTURE.md).
 - **Research records:** Reproducible methods, evidence, negative findings, and limitations.
-- **Attribution ledger:** Linked records of original ideas, implementations, independent verification, dependencies, and corrections. This process is being established in the [founding credit policy](CREDIT_AND_ATTRIBUTION.md).
+- **Attribution ledger:** The [Discovery Ledger](DISCOVERY_LEDGER.md) records accepted findings, contributors, dependencies and corrections. See the [submission process](docs/DISCOVERY_PROCESS.md) and [citation guide](CITATION.md). The founding [credit policy](CREDIT_AND_ATTRIBUTION.md) remains under review.
 
 We distinguish *proposed*, *reported*, *reproduced*, and *validated* findings. Only an independent preregistered end-to-end evaluation can certify a completed challenge.
 
